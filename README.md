@@ -3,7 +3,9 @@ A simple movie review sentiment analysis classifier.
 
 Features:
 > Text preprocessing.
+
 > Feature extraction. Uses TF-IDF vectorization.
+
 > Classification. Uses Logistic Regression.
 
 #Required packages
