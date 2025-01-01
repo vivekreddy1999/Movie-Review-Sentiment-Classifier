@@ -8,12 +8,12 @@ Features:
 
 > Classification. Uses Logistic Regression.
 
-#Required packages
+# Required packages
 
 > scikit-learn: pip install scikit-learn
 > pandas and numpy: pip install pandas numpy
 
-#Dataset link
+# Dataset link
 
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data
 
